@@ -1,0 +1,6 @@
+
+# 2024-09-15 17:03:36.043075
++The VITE_OPENAI_API_KEY and the OPENAI_API_KEY I have specified in the .env file are not being loaded on initialization, as intended. 
+
+# 2024-09-15 17:05:19.891428
++/undo
